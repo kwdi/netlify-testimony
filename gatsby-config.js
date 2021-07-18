@@ -3,7 +3,7 @@ module.exports = {
       {
         resolve: `gatsby-plugin-netlify-identity`,
         options: {
-          url: `gifted-hopper-6bd77e.netlify.app`
+          url: `https://gifted-hopper-6bd77e.netlify.app`
         }
       }
   ]
